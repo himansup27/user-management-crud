@@ -2,16 +2,16 @@
 
 ## Candidate Information
 **Name**: Himansu Sekhar Patra  
-**Email**: [Your Email]  
-**Date**: [Current Date]
+**Email**: himansu72001@gmail.com  
+**Date**: 15th Feb 2026
 
 ## Deliverables
 
 ### 1. Source Code Repository
-**GitHub URL**: [To be added after pushing to GitHub]
+**GitHub URL**: https://github.com/himansup27/user-management-crud
 
 ### 2. Live Application
-**Deployed URL**: [To be added after deployment]
+**Deployed URL**: https://symphonious-pavlova-5fef29.netlify.app
 
 ### 3. Documentation
 - ✅ Complete README.md with setup instructions

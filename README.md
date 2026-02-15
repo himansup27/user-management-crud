@@ -4,7 +4,7 @@ A modern, extensible React application built with TypeScript for managing user d
 
 ## 🚀 Live Demo
 
-[Live Application URL] - *(To be added after deployment)*
+[Live Application URL] - https://symphonious-pavlova-5fef29.netlify.app
 
 ## 📋 Features
 
